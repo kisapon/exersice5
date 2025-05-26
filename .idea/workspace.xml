@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4623c477-79d4-4feb-b719-5d8923709b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "Python.ex1.executor": "Run",
     "Python.ex3.executor": "Run",
+    "Python.ex4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
