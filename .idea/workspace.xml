@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
     "Python.ex3.executor": "Run",
     "Python.ex4.executor": "Run",
     "Python.ex5.executor": "Run",
